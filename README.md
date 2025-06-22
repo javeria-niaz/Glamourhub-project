@@ -1,3 +1,2 @@
 # Glamourhub-project
-This a
-is and Android application project
+This is an Android application project.
